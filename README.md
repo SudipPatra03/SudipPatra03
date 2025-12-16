@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on OPEN SOURCE..
 - 📫 How to reach me SEE CONTACT MENU...
 - 😄 Pronouns: HE/HIM
-- 
 
 <!---
 SudipPatra03/SudipPatra03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
